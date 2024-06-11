@@ -9,7 +9,7 @@
     "name": "typicode"
   },
   "Account": {
-    "data": [ 
+    "data": [
       {
         "name": "Test1",
         "age": 19,
