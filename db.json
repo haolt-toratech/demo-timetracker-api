@@ -9,11 +9,11 @@
     "name": "typicode"
   },
   "Account" : {
-    data: [ 
+    "data": [ 
         {
-          name: "Test1",
-          age : 19,
-          isMale: false
+          "name": "Test1",
+          "age" : 19,
+          "isMale": false
         }  
     ]
   }
