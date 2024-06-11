@@ -14,7 +14,12 @@
         "name": "Test1",
         "age": 19,
         "isMale": false
-      }  
+      },
+      {
+        "name": "Test2",
+        "age": 22,
+        "isMale": true
+      },
     ]
   }
 }
