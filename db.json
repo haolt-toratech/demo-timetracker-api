@@ -7,5 +7,14 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "Account" : {
+    data: [ 
+        {
+          name: "Test1",
+          age : 19,
+          isMale: false
+        }  
+    ]
   }
 }
