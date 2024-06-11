@@ -20,6 +20,11 @@
         "age": 22,
         "isMale": true
       },
+      {
+        "name": "Test3",
+        "age": 42,
+        "isMale": false
+      }
     ]
   }
 }
